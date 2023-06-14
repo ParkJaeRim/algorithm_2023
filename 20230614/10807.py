@@ -1,10 +1,5 @@
 import sys
 
-#
-# 11
-# 1 4 1 2 4 2 4 2 3 4 4
-# 2
-
 if __name__ == '__main__':
     # T = int(sys.stdin.readline())
     # arr = [0] * T
