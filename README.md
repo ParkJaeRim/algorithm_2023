@@ -16,6 +16,7 @@ if __name__ == '__main__':
 ```
 
 - python은 swap 함수 구현이 필요 없음
+
 ```python
 def swap(a, b):
     tmp = a
@@ -39,5 +40,4 @@ if __name__ == '__main__':
     
     for item in arr:
         print(item, end=", ") # 1,2,3,4, <- 제거해야해서 불편
-    
 ```
